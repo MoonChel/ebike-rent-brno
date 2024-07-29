@@ -122,6 +122,9 @@
             <li>
               Při převzetí elektrokola je nutné složit v hotovosti vratnou kauci <b>10 000 korun</b>. Nutné jsou dva doklady totožnosti s fotografií (OP, ŘP, pas, ...)
             </li>
+            <li>
+              Příklady smlouvy o pronájmu v <a href="/public/agreement-example-en.pdf">angličtině</a> i <a href="/public/agreement-example-cz.pdf">češtině</a>
+            </li>
           </ul>
         </section>
       </main>
