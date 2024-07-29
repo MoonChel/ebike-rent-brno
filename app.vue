@@ -128,16 +128,3 @@
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  head() {
-    return {
-      title: 'eBikes Rental Brno',
-      meta: [
-        { hid: 'og:image', property: 'og:image', content: '/download.jpeg' },
-      ]
-    }
-  }
-}
-</script>
