@@ -22,7 +22,7 @@ export default defineNuxtConfig({
         // Open Graph Tags
         { hid: 'og:title', property: 'og:title', content: 'eBikes Rental Brno' },
         { hid: 'og:description', property: 'og:description', content: 'Rent high-quality eBikes in Brno. Explore our fleet and book your ride today!' },
-        { hid: 'og:image', property: 'og:image', content: 'https://ebike-rental-brno.netlify.app/.netlify/images/download.jpeg' }, // Replace with your image URL
+        { hid: 'og:image', property: 'og:image', content: 'https://ebike-rental-brno.netlify.app/download.jpeg' }, // Replace with your image URL
         { hid: 'og:url', property: 'og:url', content: 'https://ebike-rental-brno.netlify.app/' }, // Replace with your site URL
 
         // Twitter Card Tags
