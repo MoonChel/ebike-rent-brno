@@ -94,14 +94,14 @@
               <p>Průměr kol: 27.5"</p>
             </div>
             <div class="bg-gray-200 p-4 rounded-lg">
-              <img src="assets/img/1_2118.jpg" alt="Crussis e-Cross 7.8 2023" class="w-full h-48 object-cover rounded-lg mb-2">
+              <img src="assets/img/1_2051.jpg" alt="Crussis e-Cross 7.8 2023" class="w-full h-48 object-cover rounded-lg mb-2">
               <h3 class="font-bold">Crussis e-Cross 7.8 2023</h3>
               <p>Dojedz: 130 km</p>
               <p>Velikost rámu: 18", 20"</p>
               <p>Průměr kol: 28"</p>
             </div>
             <div class="bg-gray-200 p-4 rounded-lg">
-              <img src="assets/img/1_2118.jpg" alt="Crussis e-Atland 5.8 2023" class="w-full h-48 object-cover rounded-lg mb-2">
+              <img src="assets/img/1_2101.jpg" alt="Crussis e-Atland 5.8 2023" class="w-full h-48 object-cover rounded-lg mb-2">
               <h3 class="font-bold">Crussis e-Atland 5.8 2023</h3>
               <p>Dojedz: 50 km</p>
               <p>Velikost rámu: 15", 17"</p>
