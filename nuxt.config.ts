@@ -5,10 +5,21 @@ export default defineNuxtConfig({
   },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
+  i18n: {
+    locales: [
+      { code: 'en', name: 'English', file: 'en.json' },
+      { code: 'cs', name: 'Czech', file: 'cs.json' }
+    ],
+    lazy: true,
+    langDir: 'lang',
+    defaultLocale: 'cs',
+    vueI18n: './i18n.options.ts'
+  },
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxtjs/robots',
     '@nuxtjs/sitemap',
+    '@nuxtjs/i18n',
   ],
   app: {
     head: {

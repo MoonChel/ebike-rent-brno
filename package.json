@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/i18n": "^8.3.3",
     "@nuxtjs/robots": "^4.0.2",
     "@nuxtjs/sitemap": "^6.0.0-beta.1",
     "@nuxtjs/tailwindcss": "^6.12.1",

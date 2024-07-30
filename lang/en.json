@@ -1,0 +1,23 @@
+{
+    "title": "eBikes Rental Brno",
+    "tel": "Tel",
+    "addr": "Addr",
+    "opening_hours": "Opening hours: Only up to prior agreement",
+    "prices": "Prices",
+    "deposit": "Deposit: 5000 per 1 eBike",
+    "days": "Days",
+    "price_czk": "Price (CZK)",
+    "additions": "Additions",
+    "price": "Price",
+    "helms": "Helms",
+    "free": "Free",
+    "phone_mounts": "Phone mounts",
+    "bags": "Bags",
+    "our_ebikes": "Our eBikes",
+    "rules": "Rules",
+    "rental_terms": "The rental terms (pick-up/return) must be agreed upon in advance by phone or email.",
+    "deposit_requirement": "When picking up the e-bike, a refundable deposit of 10,000 CZK must be paid in cash. Two photo ID documents are required (ID card, driver's license, passport, ...)",
+    "rental_agreement": "Examples of the rental agreement in",
+    "english_lang": "English",
+    "czech_lang": "Czech"
+}
