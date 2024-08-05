@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   site: {
     url: "https://ebike-rental-brno.netlify.app"
   },
-  googleAnalytics: {
+  gtag: {
     id: 'G-L2B7RF0E6H'
   },
   compatibilityDate: '2024-04-03',
@@ -23,7 +23,7 @@ export default defineNuxtConfig({
     '@nuxtjs/robots',
     '@nuxtjs/sitemap',
     '@nuxtjs/i18n',
-    '@nuxtjs/google-analytics',
+    'nuxt-gtag',
   ],
   app: {
     head: {
